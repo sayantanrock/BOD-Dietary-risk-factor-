@@ -2,7 +2,7 @@
 ## Purpose
 Identifying subgroups of the population with similar diet and lifestyle characteristics is useful to identify the most important dietary risk factors within these groups and thus provide evidence for targeted interventions. The aim of this study was to estimate the burden of disease of dietary risk factors in the population groups with similar lifestyles in Denmark.
 
-# #Methods
+## Methods
 We applied a comparative risk assessment approach to estimate the burden of disease attributable to exposure to seven risk factors associated with six health outcomes, selected through a review of the literature. We collected national dietary intake data, dose-response associations, and disease burden of selected health outcomes. Individuals were grouped into 12 clusters with similar lifestyles and dietary patterns. The burden of disease was evaluated in terms of disability adjusted life year (DALY) change of shifting from the current intake to recommended intakes. We applied Monte Carlo simulation to quantify associated uncertainties.
 
 ## Results
