@@ -29,3 +29,6 @@ The full paper is available here: [Sengupta et al 2025](https://link.springer.co
 * Matplotlib
 * Numpy
 * Sklearn
+
+  
+![Image](https://github.com/user-attachments/assets/22867c44-5919-4a52-9190-aaa124177d0b)
