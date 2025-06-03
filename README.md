@@ -4,6 +4,8 @@ Identifying subgroups of the population with similar diet and lifestyle characte
 
 ## Methods
 We applied a comparative risk assessment approach to estimate the burden of disease attributable to exposure to seven risk factors associated with six health outcomes, selected through a review of the literature. We collected national dietary intake data, dose-response associations, and disease burden of selected health outcomes. Individuals were grouped into 12 clusters with similar lifestyles and dietary patterns. The burden of disease was evaluated in terms of disability adjusted life year (DALY) change of shifting from the current intake to recommended intakes. We applied Monte Carlo simulation to quantify associated uncertainties.
+![Image](https://github.com/user-attachments/assets/0918dcc4-8ad4-4029-bbb2-3e4f8523c134)
+
 
 ## Results
 The total disease burden attributable to the seven dietary risk factors varied substantially across clusters, between 14 and 3332 DALYs/100,000 inhabitants. Cardiovascular disease was the leading health outcome across all clusters, and the major risk factors contributing to the burden were low consumption of tree nuts and whole grains. Clusters with older adults, higher BMI, and lower physical activity had the highest burden, and leading risk factors were low consumption of tree nuts, whole grains and vegetables. Urban, educated, and physically active individuals had the lowest disease burden.
