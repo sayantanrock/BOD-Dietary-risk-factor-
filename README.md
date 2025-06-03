@@ -20,7 +20,7 @@ Our results showed that the burden of sub-optimal diets is unevenly distributed 
 
 ### Paper
 
-The full paper is available here: [Sengupta et al 2025](https://link.springer.com/article/10.1007/s00394-025-03715-9#citeas) 
+The full paper is available here: [Sengupta et al 2025](https://link.springer.com/article/10.1007/s00394-025-03715-9) 
 
 ## Software 
 #### Dependencies
